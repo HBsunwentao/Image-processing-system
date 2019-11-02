@@ -1,8 +1,8 @@
 # Image-processing-system
-A Simple Image processing system \n
-This program can process the .bmp image and finish the follow tasks:\n
-1.horizontal mirror\n
-2.vertical mirror\n
+A Simple Image processing system 
+This program can process the .bmp image and finish the follow tasks:
+1.horizontal mirror
+2.vertical mirror
 4. ColorToGray
 5. smooth
 6. sharpening
